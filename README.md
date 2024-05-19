@@ -1,6 +1,6 @@
 # Cinema Management Information System
 
-This project was developed as part of the Database and Object Orientation exam at the University of Naples Federico II.
+This project was developed as part of the Database and Object Orientation exam at the University of Naples "Federico II".
 
 ## Project Description
 
