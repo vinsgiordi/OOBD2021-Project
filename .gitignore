@@ -1,6 +1,7 @@
 # Other folders
 build/
 nbproject/
+Tracce/
 
 # Other extensions
 *.properties
