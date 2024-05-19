@@ -1,0 +1,17 @@
+# Other folders
+build/
+nbproject/
+
+# Other extensions
+*.properties
+
+# Exe
+*.exe
+*.dll
+
+# IDE folders
+.vscode/
+.idea/
+
+# Dist folder
+dist/
